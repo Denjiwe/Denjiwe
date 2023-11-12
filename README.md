@@ -23,6 +23,12 @@
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="50" width="50"/></a>
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<div align="right">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AF3FF7&random=true&width=495&lines=Desenvolvimento+com+Laravel;Desenvolvimento+com+Php;Desenvolvimento+Front-end;Desenvolvimento+Back-end;Desenvolvimento+com+VueJs;Desenvolvimento+com+React;Desenvolvimento+com+JavaScript)](https://git.io/typing-svg)
+</div>
 
 <p align="left">
   🌐 Habilidades no Front-end: 
@@ -83,4 +89,14 @@
 <strong>Git, </strong>
 <a href="https://github.com/" target="_blank"><img src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" height="16" width="16"/></a>
 <strong>GitHub</strong>
+</div>
+
+<p>&nbsp;</p>
+
+<p align="left">
+  🔗 Links:
+</p>
+
+<div style="display:inline;">
+<a href="https://www.linkedin.com/in/santhiagomonteiropereira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40"/></a>
 </div>
