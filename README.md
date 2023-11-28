@@ -1,6 +1,5 @@
 ### Olá, seja bem-vindo! 👋
 
-<img src="https://codeium.com/profile/ogaihtnas/card.png" width=450 heigth=300 align="right" alt="Codeium Card"/>
 
 <p align="justify">
   Me chamo Santhiago, sou desenvolvedor Full Stack apaixonado por transformar ideias em soluções funcionais e inovadoras. Com experiência em desenvolvimento web, desde a criação de interfaces envolventes até a implementação de robustos backends, estou comprometido em entregar produtos de alta qualidade. Estou sempre buscando aprimorar meu conhecimento e ficar atualizado com as mais recentes tecnologias. Seja trabalhando em equipes colaborativas ou assumindo desafios de forma independente, estou pronto para contribuir para projetos inovadores e agregar valor para pessoas e empresas por meio de softwares. Vamos construir algo incrível juntos! 🚀
@@ -49,7 +48,9 @@
 <strong>React Native</strong>
 </div>
 
-<p>&nbsp;</p>
+<p align='right'>&nbsp;
+
+<img src="https://codeium.com/profile/ogaihtnas/card.png" width=450 heigth=300 align="right" alt="Codeium Card"/></p>
 
 <p align="left">
   🛠️ Habilidades no Back-end: 
