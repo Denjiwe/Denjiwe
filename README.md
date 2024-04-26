@@ -14,9 +14,6 @@
 </p>
 
 <div style="display:inline">
-<a href="https://nuxt.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="50" width="50" alt="NuxtJs Logo"/></a>
-<a href="https://expresso-ts.com" target="_blank"><img src="https://github.com/expressots/expressots/blob/main/media/expressots.png" height="50" width="50" alt="ExpressoTs Logo"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL Logo"/></a>
 <a href="https://nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="NextJs Logo"/></a>
 <a href="https://svelte.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="50" width="50" alt="Svelte Logo"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="50" width="50" alt="RabbitMQ Logo"/></a>
@@ -47,10 +44,12 @@
 <a href="https://react.dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" height="13" width="13" alt="React Native Logo"/></a>
 <strong>React Native</strong>
 </div>
-
+<div style="display:inline;">
+<a href="https://nuxt.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="15" width="15" alt="NuxtJs Logo"/></a>
+<strong>NuxtJs</strong>
 <p align='right'>&nbsp;
-
 <img src="https://codeium.com/profile/ogaihtnas/card.png" width=450 heigth=300 align="right" alt="Codeium Card"/></p>
+</div>
 
 <p align="left">
   🛠️ Habilidades no Back-end: 
@@ -68,6 +67,14 @@
 <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="13" width="13" alt="NodeJs Logo"/></a>
 <strong>NodeJs</strong>
 </div>
+<div style="display:inline;">
+<a href="https://expresso-ts.com" target="_blank"><img src="https://github.com/expressots/expressots/blob/main/media/expressots.png" height="15" width="15" alt="ExpressoTs Logo"/></a>
+<strong>ExpressoTs</strong>
+</div>
+<div style="display:inline;">
+<a href="https://expressjs.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" height="15" width="15" alt="Express Logo"/></a>
+<strong>Express</strong>
+</div>
 
 <p>&nbsp;</p>
 
@@ -82,12 +89,14 @@
 <strong>TypeScript, </strong>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="15" width="15" alt="MySQL Logo"/></a>
 <strong>MySQL, </strong>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="15" width="15" alt="PostgreSQL Logo"/></a>
+<strong>PostgreSQL, </strong>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="13" width="13" alt="Docker Logo"/></a>
 <strong>Docker, </strong>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="13" width="13" alt="Git Logo"/></a>
 <strong>Git, </strong>
 <a href="https://github.com/" target="_blank"><img src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" height="16" width="16" alt="GitHub Logo"/></a>
-<strong>GitHub</strong>
+<strong>GitHub.</strong>
 </div>
 
 <p>&nbsp;</p>
@@ -98,4 +107,5 @@
 
 <div style="display:inline;">
 <a href="https://www.linkedin.com/in/santhiagomonteiropereira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn Logo"/></a>
+<a href="https://santhiago.dev" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5339/5339184.png" height="40" width="40" alt="LinkedIn Logo"/></a>
 </div>
