@@ -14,9 +14,10 @@
 </p>
 
 <div style="display:inline">
-<a href="https://nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="NextJs Logo"/></a>
+
 <a href="https://svelte.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="50" width="50" alt="Svelte Logo"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="50" width="50" alt="RabbitMQ Logo"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" height="50" width="50" alt="Python Logo"/></a>
 
 <p>&nbsp;</p>
 
@@ -35,6 +36,14 @@
 <div style="display:inline;">
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="13" width="13" alt="JS Logo"/></a>
 <strong>JavaScript</strong>
+</div>
+<div style="display:inline;">
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="13" width="13" alt="TypeScript Logo"/></a>
+<strong>TypeScript</strong>
+</div>
+<div style="display:inline;">
+<a href="https://nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="13" width="13" alt="NextJs Logo"/></a>
+<strong>NextJs</strong>
 </div>
 <div style="display:inline;">
 <a href="https://react.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="13" width="13" alt="React Logo"/></a>
@@ -85,8 +94,6 @@
 <div style="display:inline;">
 <a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" height="15" width="15" alt="Vim Logo"/></a>
 <strong>Vim, </strong>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="13" width="13" alt="TypeScript Logo"/></a>
-<strong>TypeScript, </strong>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="15" width="15" alt="MySQL Logo"/></a>
 <strong>MySQL, </strong>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="15" width="15" alt="PostgreSQL Logo"/></a>
