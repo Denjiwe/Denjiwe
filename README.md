@@ -1,5 +1,6 @@
-### Olá, seja bem-vindo! 👋
+### <h2>Olá, seja bem-vindo! 👋</h2>
 
+###
 
 <p align="justify">
   Me chamo Santhiago, sou desenvolvedor Full Stack apaixonado por transformar ideias em soluções funcionais e inovadoras. Com experiência em desenvolvimento web, desde a criação de interfaces envolventes até a implementação de robustos backends, estou comprometido em entregar produtos de alta qualidade. Estou sempre buscando aprimorar meu conhecimento e ficar atualizado com as mais recentes tecnologias. Seja trabalhando em equipes colaborativas ou assumindo desafios de forma independente, estou pronto para contribuir para projetos inovadores e agregar valor para pessoas e empresas por meio de softwares. Vamos construir algo incrível juntos! 🚀
@@ -7,7 +8,7 @@
 
 <p align='right'>&nbsp;
   
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=denjiwe&show_icons=true&theme=midnight-purple&include_all_commits=true&rank_icon=percentile&hide=issues,contribs" align="right"  margin="2px" alt="GitHub Status"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=denjiwe&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=issues,contribs,prs&show=prs_merged&custom_title=Santhiago's%20GitHub%20Stats" align="right"  margin="2px" alt="GitHub Status"/></p>
 
 <p align="left">
   📝 Atualmente me dedicando a aprender:
@@ -104,6 +105,12 @@
 <strong>Git, </strong>
 <a href="https://github.com/" target="_blank"><img src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" height="16" width="16" alt="GitHub Logo"/></a>
 <strong>GitHub.</strong>
+</div>
+
+<p>&nbsp;</p>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Denjiwe&radius=14&theme=nightowl&bg_color=000&line=8e32c9&color=8e32c9&point=FFF&custom_title=Santhiago's%20Contribution%20Graph" height="300" alt="Activity Chart"/>
 </div>
 
 <p>&nbsp;</p>
